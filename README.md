@@ -1,4 +1,4 @@
-### Olá! 👋🏻 Ricardo aqui!
+### Olá 👋🏻 Ricardo aqui!
 - 🔭 Atualmente trabalhando com back-end
 - 🌱 Estudando JAVA / CSS, JS & HTML 
  <div>
