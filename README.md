@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ricardo Alexandre 👨🏻‍💻 
+### Olá! 👋🏻 Ricardo aqui!
 - 🔭 Atualmente trabalhando com back-end
 - 🌱 Estudando JAVA / CSS, JS & HTML 
 - 😄 Pronouns: Ele/Dele
