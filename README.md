@@ -1,7 +1,6 @@
 ### Olá! 👋🏻 Ricardo aqui!
 - 🔭 Atualmente trabalhando com back-end
 - 🌱 Estudando JAVA / CSS, JS & HTML 
-- 😄 Pronouns: Ele/Dele
  <div>
  
   <a href="https://github.com/riicardoas">
