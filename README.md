@@ -1,5 +1,5 @@
 ### Olá 👋🏻 Ricardo aqui!
-- 🔭 Atualmente trabalhando com back-end
+- 🔭 Atualmente trabalhando com java back-end
 - 🌱 Estudando JAVA / CSS, JS & HTML 
  <div>
  
